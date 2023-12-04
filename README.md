@@ -1,3 +1,3 @@
 # stm_mip
-Matlab implementation of static traffic assignment / management using mathematical programming
+Matlab implementation of multi-class static traffic management using mathematical programming
 entry point: mc_MILP_SF.m
